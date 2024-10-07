@@ -1,2 +1,2 @@
-# 2024control.md
-### 2019732040 이승주
+# 2024control
+### 990710 Seungju-Lee
